@@ -1,5 +1,7 @@
 # creality-bin-files
-Open source Creality 3D firmware Pre-Compiled for easy install.
+Open source firmware from TH3d.com compiled into bin format for easy install.
+*PIDBED TUNING ENABLED
+*TEMPERATURE RUNOUT DETECTION ON
 
 
 
@@ -10,3 +12,8 @@ Instructions:
 4. Power on the 3D printer and wait for the file to install automatically
 5. After the boot screen loads power off the 3D printer and remove the sd card
 6. erase the file from your SD card before you use it
+
+After Install:
+Reset your EEPROM. If you don't the settings may not work correctly
+Double check that your Axis and Extruder steps are correct
+https://www.th3dstudio.com/estep-calculator/
