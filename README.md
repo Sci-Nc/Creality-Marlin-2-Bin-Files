@@ -1,4 +1,16 @@
-# creality Firmware: Bin Files
+Please report issues resulting from this download to
+https://github.com/Sci-Nc
+This FIRMWARE is based of TH3D.com Creality V4.x.  and Marlin 2. Firmware files with  an added custom bootscreen/status screen for fun. 
+ It is provided for free so there is absolutely no warranty or guarantee that it will not damage your machine or work.
+ I will do my best to help anyone that has issues and I’ll make changes to the firmware accordingly with no time guarantee.
+
+
+
+All Donations for GNU work is definitely appreciated and will go towards getting better equipment to do more work for the open source community.
+
+https://www.paypal.com/donate/?hosted_button_id=KYCXACAX5F2ML
+                   
+# creality Firmware: Bin Files For Easier Install
 Open source firmware from TH3d.com compiled into bin format for easy install.
 *PIDBED TUNING ENABLED
 *TEMPERATURE RUNOUT DETECTION ON
