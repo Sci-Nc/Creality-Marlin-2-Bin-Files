@@ -1,4 +1,4 @@
-Please report issues resulting from this download to
+ Please report issues resulting from this download to
 https://github.com/Sci-Nc
 
 
@@ -34,5 +34,6 @@ Instructions:
 
 After Install:
 Reset your EEPROM. If you don't the settings may not work correctly
-Double check that your Axis and Extruder steps are correct
+Double check that your Axis and Extruder steps are correct and report any problems to https://github.com/Sci-Nc  so that I can fix the firmware for everyone.
 https://www.th3dstudio.com/estep-calculator/
+
