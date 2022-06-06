@@ -1,4 +1,4 @@
-# creality-bin-files
+# creality Firmware: Bin Files
 Open source firmware from TH3d.com compiled into bin format for easy install.
 *PIDBED TUNING ENABLED
 *TEMPERATURE RUNOUT DETECTION ON
