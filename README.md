@@ -3,12 +3,17 @@ https://github.com/Sci-Nc
 
 
 This FIRMWARE is based of TH3D.com Creality V4.x.  and Marlin 2. Firmware files with  an added custom bootscreen/status screen for fun. 
- It is provided for free so there is absolutely no warranty or guarantee that it will not damage your machine or work.
- I will do my best to help anyone that has issues and I’ll make changes to the firmware accordingly with no time guarantee.
+ It's provided for free so there is absolutely no warranty or guarantee that it will not damage your machine or work.
+ I will do what I can to help fix any problems there may be and I’ll make changes to the firmware accordingly with no time guarantee.
+ 
+ *Added default fix for screen artifacts which I can adjust if this does not work for you
+ https://marlinfw.org/docs/basics/troubleshooting.html#graphical-lcd-artifacts
 
 
 
-All Donations for GNU work is definitely appreciated and will go towards getting better equipment to do more work for the open source community.
+All Donations for GNU work are appreciated and will go towards getting better equipment to do more work for the open source community.
+
+*No less than 25% of your donation will be re-donated back to the folks at Th3D.com and Marlin.org
 
 https://www.paypal.com/donate/?hosted_button_id=KYCXACAX5F2ML
                    
