@@ -58,7 +58,7 @@ Instructions:
 
 After Install:
 You MUST MANUALLY RESET EEPROM USING ADVANCED SETTINGS WITHIN THE MENU OPTIONS. If you don't the settings will not work correctly.
-Double check that your Axis and Extruder steps are correct and report any problems to https://github.com/Sci-Nc  so that I can fix the firmware for everyone.
+Double check that your Axis and Extruder steps are correct and report any problems to https://github.com/Sci-Nc  so that I can fix the firmware.
 
 ![Free_Sample_By_Wix](https://user-images.githubusercontent.com/105161928/172274897-cb41bf87-13b8-4e86-bd6f-356c4ef7ac4d.jpeg)
 
