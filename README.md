@@ -1,4 +1,4 @@
-Custom Boot Screen, I left Marlin Boot Screen Enabled with TH3D.com in there.
+Custom Boot Screen, I left Marlin Boot Screen Enabled with TH3Dstudio.com 
 
   ![ezgif com-gif-maker](https://user-images.githubusercontent.com/105161928/172275333-c877394d-b229-4efc-8048-43fb26466d36.gif)
 
