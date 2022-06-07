@@ -15,7 +15,16 @@ Custom Boot Screen, I left Marlin Boot Screen Enabled with TH3Dstudio.com
 just message with your screen model number and I'll do what I can.
  https://marlinfw.org/docs/basics/troubleshooting.html#graphical-lcd-artifacts
 
-*PIDBED TUNING ENABLED - https://marlinfw.org/docs/gcode/M303.html
+*PIDBED TUNING ENABLED - https://marlinfw.org/docs/gcode/M303.html, https://www.3dmakerengineering.com/blogs/3d-printing/pid-tuning-marlin-firmware
+
+Hotend Tuning
+M303 E0 S230 C15 - P.I.D Hotend Tuning @ 230°C for 15 cycles
+M304 Px.x Ix.x Dx.x -Where "x.x" is the value given from Hotend Tuning
+
+BED TUNING
+M303 E-1 S75 C15 - P.I.D Bed Tuning @ 75°C for 15 cycles
+M305 Px.x Ix.x Dx.x - Where "x.x" is the value given from the Bed Tuning
+
 
   ![cxvcxvcx](https://user-images.githubusercontent.com/105161928/172274680-0e98fe90-cbe3-4632-af30-e438587ac87e.png)
 
