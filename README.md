@@ -1,4 +1,3 @@
-![Free_Sample_By_Wix](https://user-images.githubusercontent.com/105161928/172274897-cb41bf87-13b8-4e86-bd6f-356c4ef7ac4d.jpeg)
 
 Custom Boot Screen, I left Marlin Boot Screen Enabled with TH3Dstudio.com 
 
@@ -84,3 +83,5 @@ RESOURCES:
 https://marlinfw.org/docs/configuration/configuration.html#configuring-marlin
 https://www.th3dstudio.com/estep-calculator/
 https://cdn.prusa3d.com/downloads/drivers/PrusaSlicer_Win_standalone_2.4.2.exe#_ga=2.43694501.1675382600.1654555695-1794174945.1654223607
+
+![Free_Sample_By_Wix](https://user-images.githubusercontent.com/105161928/172274897-cb41bf87-13b8-4e86-bd6f-356c4ef7ac4d.jpeg)
